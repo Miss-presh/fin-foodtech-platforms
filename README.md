@@ -1,8 +1,5 @@
 # Fintech & Food-Tech Platforms
 
-🔗 **Fintech Live:** https://bravepaymfb.com/  
-🔗 **Food-Tech Live:** https://potoffood.com/
-
 ### 🚀 Overview
 Business platforms built with **Next.js**, optimized for usability, interactivity, and API-driven content.
 
